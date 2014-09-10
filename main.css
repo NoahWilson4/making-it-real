@@ -1,0 +1,160 @@
+
+body {
+	background: #7F8C8D;
+}
+
+header {
+	
+	background: #2ECC71;
+	padding: 160px 20px 20px 20px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border-bottom: 5px solid #27AE60;
+	margin: 50px 0 0 0;
+}
+
+.mainwidth {
+	width: 600px;
+	margin-left: 100px;
+}
+
+.navitem {
+	display: inline-block;
+	float: right;
+	padding: 13px 10px 0 30px;
+	color: white;
+}
+
+.navbar {
+	background-color: #34495E;
+	display: inline-block;
+	width: 600px;
+	margin: 0px;
+	height: 40px;
+	padding: 0;
+	border-bottom: 5px solid #2C3E50;
+}
+
+.navbarr {
+	margin:0;
+}
+article {
+	background:#ECF0F1;
+	padding: 40px;
+	margin-top: -4px;
+}
+
+.p-article {
+	padding-left: 30px;
+}
+
+.sectiontitle {
+	border-bottom: 1px solid lightgray;
+padding-bottom: 15px;
+padding-left: 15px;
+}
+
+th {
+	border: 1px solid #999999;
+	background: #BDC3C7;
+	padding: 10px 20px;
+}
+
+td {
+	padding: 15px 15px;
+	border-bottom: 1px solid #BDC3C7;
+	border-left: 1px solid #BDC3C7;
+	border-right: 1px solid #BDC3C7;
+}
+
+.button {
+	text-decoration: none;
+	color: white;
+	background: #3498DB;
+	padding: 7px 26px;
+}
+
+.example {
+	background: #BDC3C7;
+padding: 20px 60px;
+font-family: monospace;
+}
+
+.inline-indent {
+	padding-left: 20px;
+}
+
+.image {
+	width: 520px;
+height: 100px;
+background: #CCCCCC;
+}
+
+li {
+	padding-bottom: 10px;
+}
+
+.posted-by {
+	color: #999999;
+font-size: .9em;
+}
+
+.comments {
+	background:#ECF0F1;
+	padding: 40px;
+	margin-top: -4px;
+}
+
+label {
+	display: block;
+}
+
+
+
+fieldset {
+	border-bottom: none;
+border-left: none;
+border-right: none;
+}
+
+legend {
+	color: #999999;
+	padding: 20px 10px;
+}
+
+.input1{
+display: block;
+margin-bottom: 5px;
+padding-left: 110px;
+
+}
+
+.input2{
+display: block;
+margin-bottom: 5px;
+padding-left: 50px;
+
+}
+
+.input3{
+display: block;
+margin-bottom: 5px;
+padding-left: 92px;
+
+}
+
+textarea{
+	width: 490px;
+height: 150px;
+margin-bottom: 20px;
+}
+
+.submit {
+	text-decoration: none;
+padding: 13px 224px;
+background: #C0392B;
+color: white;
+}
+
+
